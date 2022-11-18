@@ -1,0 +1,15 @@
+Software Requirement Specification:
+
+PAWS n PLAY
+
+This website is for virtually adoption animals and for volunteer work in helping animals and for vaccination drives.
+
+Requirements:
+1. Home page with different categories like animals, login,sign up, sign up for newletter, signing up for volunteer work etc.
+2. Sub categories for animals and volunteer work.
+3. Security Requirement
+4. Search module
+5. User interface
+6. Management team phone numbers and profiles.
+7. Profile of each animal available with pictures.
+8. Information about caring for each specific animal and their needs.
